@@ -1,0 +1,17 @@
+.new-product_controls {
+  height: 100px;
+  background-color: rgb(138, 112, 202);
+  width: 650px;
+  border-radius: 1rem;
+  box-shadow: 0 5px 10px rgb(60, 20, 70);
+  margin-top: 15px;
+}
+
+.new-product_button button {
+  border-radius: 0.7rem;
+  background-color: rgb(50, 14, 96);
+  color: white;
+  border: none;
+  padding: 8px;
+  margin-top: 10px;
+}
